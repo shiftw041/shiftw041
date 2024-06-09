@@ -8,5 +8,6 @@ I am looking forward to joining a research group that aligns with me and embarki
 ## Resume
 Click **[📝 CV-EN](https://shiftw041.github.io/online-resume/)** to view my resume in detail.And the Chinese version is **[📝 CV-CN](https://shiftw041.github.io/online-resume/cn)**
 ## Others
-https://github-readme-streak-stats.herokuapp.com/?user=shiftw041&theme=dark&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=shiftw041&layout=compact&theme=dark&card_width=445&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=shiftw041&theme=vue&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=shiftw041&layout=compact&theme=vue&card_width=445&hide_border=true
