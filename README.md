@@ -12,6 +12,6 @@ Click **[📝 CV-EN](https://shiftw041.github.io/online-resume/)** to view my re
 ## Others
 [![shiftw041 stats](https://github-readme-stats.vercel.app/api?username=shiftw041&theme=dark&show_icons=true)](https://github.com/shiftw041)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shiftw041&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shiftw041&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiftw041&layout=compact&theme=dark&card_width=445&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiftw041&layout=compact&theme=dark&card_width=445)
