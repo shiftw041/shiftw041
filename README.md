@@ -1,5 +1,4 @@
 # Hi, I am shiftw👋 ![](https://komarev.com/ghpvc/?username=shiftw041&color=blue&style=flat-square)
-[![shiftw041 stats](https://github-readme-stats.vercel.app/api?username=shiftw041&theme=dark&show_icons=true)](https://github.com/shiftw041)
 ## About Me
 My name is Wu Xuefei, a junior in school of Cyber Science and Engineering, Huazhong University of Science and Technology.
 
@@ -11,6 +10,8 @@ I am looking forward to joining a research group that aligns with me and embarki
 ## Resume
 Click **[📝 CV-EN](https://shiftw041.github.io/online-resume/)** to view my resume in detail.And the Chinese version is **[📝 CV-CN](https://shiftw041.github.io/online-resume/cn)**
 ## Others
+[![shiftw041 stats](https://github-readme-stats.vercel.app/api?username=shiftw041&theme=dark&show_icons=true)](https://github.com/shiftw041)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shiftw041&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiftw041&layout=compact&theme=dark&card_width=445&hide_border=true)
