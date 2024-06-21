@@ -4,7 +4,7 @@ My name is Wu Xuefei, a junior in school of Cyber Science and Engineering, Huazh
 
 Click **[💻 HERE](https://shiftw041.github.io/site/about/)** to view my personal page.
 
-I am enthusiastic about the prospect of furthering my studies in China.While I have a clear interest and some research foundation in the field of efficient AI, I am equally open and curious about unfamiliar research areas. I believe that through further study and continuous learning, I can make continuous progress on the path of scientific research and explore more possibilities.
+I am enthusiastic about the prospect of furthering my studies in China.I have a clear interest as well as some research foundation in the field of **efficient AI**, and I'd like to study usable algorithms in real systems. Also, I am equally open and curious about unfamiliar research areas. I believe that through further study and continuous learning, I can make continuous progress on the path of scientific research and explore more possibilities.
 
 I am looking forward to joining a research group that aligns with me and embarking on my graduate studies, climbing the academic summit together with like-minded peers.
 ## Resume
