@@ -2,7 +2,7 @@
 ## About Me
 My name is Wu Xuefei, a junior in school of Cyber Science and Engineering, Huazhong University of Science and Technology.
 
-Click **[💻 HERE](https://shiftw041.github.io/site/about/)** to view my personal page.
+Click **[💻 HERE](https://www.cnblogs.com/sinclaire)** to view my blog.
 
 I am enthusiastic about the prospect of furthering my studies in China.I have a clear interest as well as some research foundation in the field of **efficient AI**, and I'd like to study usable algorithms in real systems. Also, I am equally open and curious about unfamiliar research areas. I believe that through further study and continuous learning, I can make continuous progress on the path of scientific research and explore more possibilities.
 
