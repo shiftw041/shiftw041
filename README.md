@@ -4,7 +4,7 @@ My name is Wu Xuefei, a senior in school of Cyber Science and Engineering, Huazh
 
 I am enthusiastic about the prospect of furthering my studies in China. I have a clear interest as well as some research foundation in the field of **software engineering**, and I'd like to study usable algorithms in real systems. Also, I am equally open and curious about unfamiliar research areas. I believe that through further study and continuous learning, I can make continuous progress on the path of scientific research and explore more possibilities.
 
-The majority of my repositories consists of my personal learning records. If you think them helpful, please feel free to give me a ⭐. Additionally, please take responsibility for your own courses and refrain from plagiarism and direct copying.
+The majority of my repositories consists of my personal learning records. If you think them helpful, please feel free to give me a ⭐. Additionally, please take responsibility for your own courses and refrain from plagiarism and copying.
 
 If you have any questions or would like to discuss anything related to my field, feel free to contact me via [email](shiftw@hust.edu.cn).
 ## Resume
