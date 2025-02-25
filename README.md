@@ -10,8 +10,7 @@ If you have any questions or would like to discuss anything related to my field,
 ## Resume
 <!--Click **[📝 CV-CN](https://shiftw041.github.io/online-resume/cn)** to view my resume in detail. And the English version is **[📝 CV-EN](https://shiftw041.github.io/online-resume/)** (Please refer to the CN version firstly, as the EN version may not be up-to-date.)-->
 
-<!--Click **[💻 HERE](https://www.cnblogs.com/sinclaire)** or **[💻 SITE](https://shiftw041.github.io/site/)** to view my blog.-->
-Click **[💻 HERE](https://www.cnblogs.com/sinclaire)** to view my blog.
+Click **[💻 HERE](https://www.cnblogs.com/sinclaire)** or **[💻 SITE](https://shiftw041.github.io/site/)** to view my blog.
 ## Others
 <!--
 [![shiftw041 stats](https://github-readme-stats.vercel.app/api?username=shiftw041&theme=dark&show_icons=true)](https://github.com/shiftw041)
