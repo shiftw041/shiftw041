@@ -1,6 +1,6 @@
 # Hi, I am shiftw👋 ![](https://komarev.com/ghpvc/?username=shiftw041&color=blue&style=flat-square)
 ## About Me
-My name is Wu Xuefei, a senior in school of Cyber Science and Engineering, Huazhong University of Science and Technology. I have been admitted as a master's degree candidate by the School of Software Technology, Zhejiang University.
+My name is Wu Xuefei, I hold a bachelor's degree from the School of Cyber Science and Engineering at Huazhong University of Science and Technology. I am now pursuing my master's degree in the School of Software Technology at Zhejiang University.
 
 I am enthusiastic about the prospect of furthering my studies in China. I have a clear interest as well as some research foundation in the field of **software engineering**, and I'd like to study usable algorithms in real systems. Also, I am equally open and curious about unfamiliar research areas. I believe that through further study and continuous learning, I can make continuous progress on the path of scientific research and explore more possibilities.
 
