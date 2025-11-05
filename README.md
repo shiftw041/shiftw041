@@ -6,7 +6,7 @@ I am enthusiastic about the prospect of furthering my studies in China. I have a
 
 The majority of my repositories consists of my personal learning records. If you think them helpful, please feel free to give me a ⭐. Additionally, please take responsibility for your own courses and refrain from plagiarism and copying.
 
-If you have any questions or would like to discuss anything related to my field, feel free to contact me via [email](shiftw@hust.edu.cn).
+If you have any questions or would like to discuss anything related to my field, feel free to contact me via [email](xuefeiwu@zju.edu.cn).
 ## Resume
 <!--Click **[📝 CV-CN](https://shiftw041.github.io/online-resume/cn)** to view my resume in detail. And the English version is **[📝 CV-EN](https://shiftw041.github.io/online-resume/)** (Please refer to the CN version firstly, as the EN version may not be up-to-date.)-->
 
